@@ -54,7 +54,7 @@ Node.prototype.getSiblings = function () {
     }
     return array;
 }
-//调用
+//调用API
 //console.log(item3.getSiblings.call(item3));call的第一个参数就是this
 //console.log(item3.getSiblings());
 
